@@ -154,7 +154,3 @@ Se quiser trocar uma ideia sobre **desenvolvimento, arquitetura, sistemas legado
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-adrianlube-blue)](https://www.linkedin.com/in/adrianlube)
 [![Website](https://img.shields.io/badge/Website-packsolucoes.com.br-green)](http://packsolucoes.com.br)
-
----
-
-⭐ Se algum projeto aqui for útil para você, considere deixar uma estrela!
